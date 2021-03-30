@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nehasin14223699" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nehasin14223699" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neha sinha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neha sinha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neha-sinha-3992021a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neha sinha" height="30" width="40" /></a>
 <a href="https://instagram.com/meraki__18.8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="meraki__18.8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sinhaneha455" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sinhaneha455" height="30" width="40" /></a>
 </p>
